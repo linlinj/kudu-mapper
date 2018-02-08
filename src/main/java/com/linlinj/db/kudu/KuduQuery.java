@@ -1,6 +1,6 @@
-package com.ruijie.giant.db.kudu;
+package com.linlinj.db.kudu;
 
-import com.ruijie.giant.db.kudu.exception.KuduOperationException;
+import com.linlinj.db.kudu.exception.KuduOperationException;
 
 import java.util.ArrayList;
 import java.util.List;

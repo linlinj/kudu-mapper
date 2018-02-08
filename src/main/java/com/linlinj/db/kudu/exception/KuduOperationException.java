@@ -1,4 +1,4 @@
-package com.ruijie.giant.db.kudu.exception;
+package com.linlinj.db.kudu.exception;
 
 import org.apache.kudu.client.KuduException;
 import org.apache.kudu.client.Status;

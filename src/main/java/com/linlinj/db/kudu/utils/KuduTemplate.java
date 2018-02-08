@@ -1,7 +1,7 @@
-package com.ruijie.giant.db.kudu.utils;
+package com.linlinj.db.kudu.utils;
 
-import com.ruijie.giant.db.kudu.exception.KuduOperationException;
-import com.ruijie.giant.db.kudu.metadata.FieldColumnMapper;
+import com.linlinj.db.kudu.exception.KuduOperationException;
+import com.linlinj.db.kudu.metadata.FieldColumnMapper;
 import org.apache.kudu.ColumnSchema;
 import org.apache.kudu.client.*;
 

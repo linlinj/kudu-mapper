@@ -1,6 +1,6 @@
 package com.ruijie.giant.db.kuduTest;
 
-import com.ruijie.giant.db.kudu.utils.KuduTemplate;
+import com.linlinj.db.kudu.utils.KuduTemplate;
 
 import java.util.ArrayList;
 import java.util.List;

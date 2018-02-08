@@ -1,4 +1,4 @@
-package com.ruijie.giant.db.kudu.metadata;
+package com.linlinj.db.kudu.metadata;
 
 import org.apache.kudu.ColumnSchema;
 import org.apache.kudu.Type;

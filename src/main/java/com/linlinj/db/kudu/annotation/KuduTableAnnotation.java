@@ -1,4 +1,4 @@
-package com.ruijie.giant.db.kudu.annotation;
+package com.linlinj.db.kudu.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

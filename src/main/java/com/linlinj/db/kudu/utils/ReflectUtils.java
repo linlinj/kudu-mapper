@@ -1,9 +1,9 @@
-package com.ruijie.giant.db.kudu.utils;
+package com.linlinj.db.kudu.utils;
 
-import com.ruijie.giant.db.kudu.annotation.KuduColumnAnnotation;
-import com.ruijie.giant.db.kudu.annotation.KuduTableAnnotation;
-import com.ruijie.giant.db.kudu.metadata.FieldColumnMapper;
-import com.ruijie.giant.db.kudu.metadata.JavaTypeMapper;
+import com.linlinj.db.kudu.annotation.KuduTableAnnotation;
+import com.linlinj.db.kudu.metadata.FieldColumnMapper;
+import com.linlinj.db.kudu.annotation.KuduColumnAnnotation;
+import com.linlinj.db.kudu.metadata.JavaTypeMapper;
 
 import java.lang.reflect.Field;
 import java.util.HashMap;

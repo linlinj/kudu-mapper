@@ -1,6 +1,6 @@
 package com.ruijie.giant.db.kuduTest;
 
-import com.ruijie.giant.db.kudu.annotation.KuduColumnAnnotation;
+import com.linlinj.db.kudu.annotation.KuduColumnAnnotation;
 
 /**
  * Created by admin on 2018/1/19.

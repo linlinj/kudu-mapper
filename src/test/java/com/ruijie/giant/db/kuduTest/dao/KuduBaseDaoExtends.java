@@ -1,6 +1,6 @@
 package com.ruijie.giant.db.kuduTest.dao;
 
-import com.ruijie.giant.db.kudu.KuduBaseDao;
+import com.linlinj.db.kudu.KuduBaseDao;
 import com.ruijie.giant.db.kuduTest.MetricsTable;
 
 /**

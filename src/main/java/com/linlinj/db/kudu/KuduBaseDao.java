@@ -1,6 +1,6 @@
-package com.ruijie.giant.db.kudu;
+package com.linlinj.db.kudu;
 
-import com.ruijie.giant.db.kudu.utils.KuduTemplate;
+import com.linlinj.db.kudu.utils.KuduTemplate;
 
 import java.lang.reflect.ParameterizedType;
 import java.util.List;

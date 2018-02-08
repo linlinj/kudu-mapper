@@ -1,4 +1,4 @@
-package com.ruijie.giant.db.kudu.metadata;
+package com.linlinj.db.kudu.metadata;
 
 /**
  * Created by jianglinlin on 2018/1/20.
